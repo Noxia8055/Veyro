@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.top-header-brand img {
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.top-header-brand img:hover,
+.top-header-brand:hover img {
+  opacity: 0.8;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "VEYRO",
+  "description": "Next-generation creator sponsorship escrow and automated payout platform with transparent 85/15 splits, deliverable verification, and Net-0 settlement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
